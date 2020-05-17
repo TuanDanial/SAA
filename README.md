@@ -1,2 +1,1 @@
-# Zombie-Server-SA-MP-
-Zombie server for SA:MP
+# Visit <a href = "https://github.com/siddharthamks/SAA/releases">Release</a> page for updates!
