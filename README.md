@@ -11,7 +11,7 @@ Zombie Survial mode for San Andreas
 - Random Spawn locations by jumping from plane and choosing place to land.
 
 ## Updates
-### v0.4
+#### v0.4
 **Attachments**
 * Weapon Holster system implemented.
 
@@ -23,7 +23,7 @@ Zombie Survial mode for San Andreas
 
 **Interiors**
 * RCON can now add doors for players to enter/exit interiors.
-### v0.3
+#### v0.3
 **Zombie A.I:**
 * Redefined the custom damage to zombies - now zombies will not die in 1 shot from headshots and several weapons.
 * Zombies will fall when they're being shot by a shotgun, spaz12, country rifle, sniper. (bug - they can move while being stunned)
@@ -36,12 +36,12 @@ Zombie Survial mode for San Andreas
 **Minor Change:**
 * Now you'll spawn on airplane and have option to spawn by pressing F and selecting country.
 
-### v0.2
+#### v0.2
 * Script improvement.
 * Bug fixed ~ "Zombie stop their heads when the player stops on near to them".
 * New zombie name-tag and health bar - https://imgur.com/umiikKA
 
-### v0.1
+#### v0.1
 * Random spawn locations
 * Zombie AI v0.1 
 
