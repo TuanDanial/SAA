@@ -1,7 +1,6 @@
 # Jobs
 Player can do the jobs to earn money.
 
-- Pizza Boy
 - Courier
 - Pick Pocketer
 - Car Exports & Imports (Exotic & Non-Exotic)
