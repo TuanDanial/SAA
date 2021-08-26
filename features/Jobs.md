@@ -2,13 +2,14 @@
 Player can do the jobs to earn money.
 
 - Courier
+  - Weapon
+  - Food
 - Pick Pocketer
 - Car Exports & Imports (Exotic & Non-Exotic)
 - Paramedic
 - Trucking
 - Burglar
 - Store Robbery
-- Excess Delivery
 - Kidnapping
 - Weapon Dealer
 - Assassination / Hitman
